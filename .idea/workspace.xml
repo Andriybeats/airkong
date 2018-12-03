@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81869294-f3e9-4ab8-a4bb-ae61cdf7b640" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/.idea/AirAlien - T15_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/.idea/AirAlien - T15_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/README.rdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/Rakefile" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/Rakefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/assets/javascripts/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/assets/javascripts/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/assets/javascripts/jquery.raty.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/assets/javascripts/jquery.raty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/assets/stylesheets/application.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/assets/stylesheets/application.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/conversations_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/conversations_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/omniauth_callbacks_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/omniauth_callbacks_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/pages_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/pages_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/photos_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/photos_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/registrations_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/registrations_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/reservations_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/reservations_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/reviews_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/reviews_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/controllers/rooms_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/controllers/rooms_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/mailers/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/conversation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/models/conversation.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/message.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/models/message.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/photo.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/models/photo.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/reservation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/models/reservation.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/review.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/models/review.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/room.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/models/room.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/conversations/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/conversations/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/devise/confirmations/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/devise/confirmations/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/devise/passwords/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/devise/passwords/edit.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/devise/passwords/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/devise/passwords/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/devise/registrations/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/devise/registrations/edit.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/devise/registrations/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/devise/registrations/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/devise/sessions/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/devise/sessions/new.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/devise/shared/_links.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/devise/shared/_links.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/layouts/application.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/messages/_message.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/messages/_message.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/messages/create.js.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/messages/create.js.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/messages/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/messages/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/pages/home.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/pages/home.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/pages/search.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/pages/search.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/photos/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/photos/_list.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/reservations/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/reservations/_form.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/reservations/your_reservations.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/reservations/your_reservations.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/reservations/your_trips.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/reservations/your_trips.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/reviews/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/reviews/_form.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/reviews/_list.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/reviews/_list.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/rooms/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/rooms/_form.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/rooms/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/rooms/edit.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/rooms/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/rooms/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/rooms/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/rooms/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/shared/_message.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/shared/_message.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/shared/_navbar.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/shared/_navbar.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/app/views/users/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/app/views/users/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/bin/rails" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/bin/rails" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/bin/rake" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/bin/rake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/bin/setup" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/bin/setup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/bin/spring" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/bin/spring" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config.ru" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config.ru" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/boot.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/boot.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/environment.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/environments/test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/environments/test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/initializers/cookies_serializer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/initializers/cookies_serializer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/initializers/devise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/initializers/devise.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/initializers/wrap_parameters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/initializers/wrap_parameters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/locales/devise.en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/locales/devise.en.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/private_pub.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/private_pub.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/config/secrets.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/config/secrets.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150811122044_devise_create_users.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150812113030_add_fullname_to_user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150813141746_add_confirmable_to_devise.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150816020536_add_fields_to_user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150820111854_add_extra_fields_to_user.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150829124513_create_rooms.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150831115846_create_photos.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150831115901_add_attachment_image_to_photos.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150902061642_add_fields_to_room.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150902121842_create_reservations.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150908081556_create_conversations.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150908081621_create_messages.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150910113846_create_reviews.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/migrate/20150925120708_add_status_to_reservation.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/db/seeds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/db/seeds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/001/medium/0b6ecf25_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/001/original/0b6ecf25_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/001/thumb/0b6ecf25_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/003/medium/552d5f1e_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/003/original/552d5f1e_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/003/thumb/552d5f1e_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/004/medium/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/004/original/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/004/thumb/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/007/medium/3b1fc5f6_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/007/original/3b1fc5f6_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/007/thumb/3b1fc5f6_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/008/medium/3b990fc7_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/008/original/3b990fc7_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/008/thumb/3b990fc7_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/009/medium/8c0ad2e4_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/009/original/8c0ad2e4_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/009/thumb/8c0ad2e4_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/011/medium/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/011/original/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/011/thumb/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/012/medium/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/012/original/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/012/thumb/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/013/medium/af1cff03_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/013/original/af1cff03_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/013/thumb/af1cff03_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/014/medium/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/014/original/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/014/thumb/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/015/medium/af1cff03_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/015/original/af1cff03_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/015/thumb/af1cff03_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/016/medium/552d5f1e_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/016/original/552d5f1e_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/016/thumb/552d5f1e_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/017/medium/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/017/original/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/017/thumb/974c84b1_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/018/medium/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/018/original/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/public/system/photos/images/000/000/018/thumb/28272896_original.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/controllers/pages_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/controllers/pages_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/controllers/rooms_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/controllers/rooms_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/messages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/messages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/photos.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/photos.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/reservations.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/reservations.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/reviews.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/reviews.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/rooms.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/rooms.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/users.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/users.yml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/log/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/cache/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/photo.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-578" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="267" column="3" lean-forward="true" selection-start-line="267" selection-start-column="3" selection-end-line="267" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
+        <option value="$PROJECT_DIR$/config/environments/development.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1019" />
+    <option name="y" value="283" />
+    <option name="width" value="1102" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kong" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kong" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kong" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: Kong">
+    <configuration name="Development: Kong" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="Kong" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: Kong" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="Kong" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: Kong" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="Kong" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: Kong" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="Kong" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81869294-f3e9-4ab8-a4bb-ae61cdf7b640" name="Default Changelist" comment="" />
+      <created>1543798260721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543798260721</updated>
+      <workItem from="1543798262619" duration="1792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1792000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1019" y="283" width="1102" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="267" column="3" lean-forward="true" selection-start-line="267" selection-start-column="3" selection-end-line="267" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/photo.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
