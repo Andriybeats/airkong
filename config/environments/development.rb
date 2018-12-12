@@ -58,14 +58,15 @@ Rails.application.configure do
 
   config.action_mailer.delivery_method = :smtp
   config.action_mailer.smtp_settings = {
-    address: 'smtp.gmail.com',
-    port: 587,
-    enable_starttls_auto: true,
-    authentication: 'plain',
-    user_name: 'nabivanec.a@gmail.com',
-    password: '22'
+      address:            "smtp.gmail.com",
+      port:               587,
+      user_name:          'airkongrent@gmail.com',
+      password:           'rfnfkju22',
+      authentication:     "plain",
+      enable_starttls_auto: true
   }
 
+=begin
   config.paperclip_defaults = {
     storage: :s3,
     path: ':class/:attachment/:id/:style/:filename',
@@ -77,4 +78,5 @@ Rails.application.configure do
        s3_region: 'ap-southeast-2'
      }
    }
+=end
 end

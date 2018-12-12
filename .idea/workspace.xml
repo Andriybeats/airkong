@@ -143,6 +143,15 @@
       <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/reviews.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/reviews.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/rooms.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/rooms.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AirAlien/test/fixtures/users.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../AirAlien/test/fixtures/users.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/reservations_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/reservations_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/rooms_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/rooms_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pages/home.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/devise.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/devise.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/stripe.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/stripe.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -157,48 +166,108 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+        <entry file="file://$PROJECT_DIR$/app/controllers/notifications_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="9" lean-forward="true" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/omniauth_callbacks_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="38" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="21" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/photos_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="11" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/registrations_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/reservations_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="77" column="32" selection-end-line="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/revenues_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
+        <entry file="file://$PROJECT_DIR$/app/controllers/rooms_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="420">
+              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/photo.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
+        <entry file="file://$PROJECT_DIR$/app/controllers/settings_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-578" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-end-line="20" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
+        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="267" column="3" lean-forward="true" selection-start-line="267" selection-start-column="3" selection-end-line="267" selection-end-column="3" />
+            <state relative-caret-position="645">
+              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -206,28 +275,35 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
+        <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
+        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+        <option value="$PROJECT_DIR$/config/initializers/stripe.rb" />
+        <option value="$PROJECT_DIR$/config/initializers/devise.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/reservations_controller.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/rooms_controller.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1019" />
-    <option name="y" value="283" />
-    <option name="width" value="1102" />
-    <option name="height" value="1000" />
+    <option name="x" value="258" />
+    <option name="y" value="157" />
+    <option name="width" value="1092" />
+    <option name="height" value="1030" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
@@ -245,24 +321,32 @@
               <item name="Kong" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kong" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kong" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Kong" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kong" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pictures" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -373,6 +457,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -383,25 +468,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543798260721</updated>
-      <workItem from="1543798262619" duration="1792000" />
+      <workItem from="1543798262619" duration="2349000" />
+      <workItem from="1543881670042" duration="611000" />
+      <workItem from="1544019022707" duration="11222000" />
+      <workItem from="1544047427597" duration="1627000" />
+      <workItem from="1544124785295" duration="1431000" />
+      <workItem from="1544452752859" duration="942000" />
+      <workItem from="1544463499008" duration="6271000" />
+      <workItem from="1544474790880" duration="355000" />
+      <workItem from="1544570649564" duration="12224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1792000" />
+    <option name="totallyTimeSpent" value="37032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1019" y="283" width="1102" height="1000" extended-state="0" />
+    <frame x="258" y="157" width="1092" height="1030" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28967494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -409,45 +497,1439 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295063" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32982844" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/devise.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="267" column="3" lean-forward="true" selection-start-line="267" selection-start-column="3" selection-end-line="267" selection-end-column="3" />
+    <entry file="uml://Ruby/ApplicationController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>ApplicationController</OriginalElement>
+          <nodes>
+            <node x="" y="">CalendarsController</node>
+            <node x="" y="">ReservationsController</node>
+            <node x="" y="">PhotosController</node>
+            <node x="" y="">PagesController</node>
+            <node x="" y="">MessagesController</node>
+            <node x="" y="">DashboardsController</node>
+            <node x="" y="">Module</node>
+            <node x="" y="">SettingsController</node>
+            <node x="" y="">RoomsController</node>
+            <node x="" y="">GuestReviewsController</node>
+            <node x="" y="">PP::ObjectMixin</node>
+            <node x="" y="">UsersController</node>
+            <node x="" y="">Kernel</node>
+            <node x="" y="">RegistrationsController</node>
+            <node x="" y="">ApplicationController</node>
+            <node x="" y="">OmniauthCallbacksController</node>
+            <node x="" y="">NotificationsController</node>
+            <node x="" y="">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="" y="">Object</node>
+            <node x="" y="">Class</node>
+            <node x="" y="">RevenuesController</node>
+            <node x="" y="">ConversationsController</node>
+            <node x="" y="">HostReviewsController</node>
+            <node x="" y="">BasicObject</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="1567.0" y="1378.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+    <entry file="uml://Ruby/Photo">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>Photo</OriginalElement>
+          <nodes>
+            <node x="" y="">Conversation</node>
+            <node x="" y="">Setting</node>
+            <node x="" y="">Notification</node>
+            <node x="" y="">ApplicationRecord</node>
+            <node x="" y="">Message</node>
+            <node x="" y="">Module</node>
+            <node x="" y="">Reservation</node>
+            <node x="" y="">PP::ObjectMixin</node>
+            <node x="" y="">Kernel</node>
+            <node x="" y="">Room</node>
+            <node x="" y="">Photo</node>
+            <node x="" y="">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="" y="">GuestReview</node>
+            <node x="" y="">User</node>
+            <node x="" y="">HostReview</node>
+            <node x="" y="">Calendar</node>
+            <node x="" y="">Object</node>
+            <node x="" y="">Class</node>
+            <node x="" y="">Review</node>
+            <node x="" y="">BasicObject</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="1059.0" y="755.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constants</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://Ruby/UsersController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>UsersController</OriginalElement>
+          <nodes>
+            <node x="" y="">ReservationsController</node>
+            <node x="" y="">PhotosController</node>
+            <node x="" y="">PagesController</node>
+            <node x="" y="">MessagesController</node>
+            <node x="" y="">DashboardsController</node>
+            <node x="" y="">Module</node>
+            <node x="" y="">SettingsController</node>
+            <node x="" y="">RoomsController</node>
+            <node x="" y="">GuestReviewsController</node>
+            <node x="" y="">PP::ObjectMixin</node>
+            <node x="" y="">UsersController</node>
+            <node x="" y="">Kernel</node>
+            <node x="" y="">RegistrationsController</node>
+            <node x="" y="">ApplicationController</node>
+            <node x="" y="">OmniauthCallbacksController</node>
+            <node x="" y="">NotificationsController</node>
+            <node x="" y="">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="" y="">Object</node>
+            <node x="" y="">Class</node>
+            <node x="" y="">RevenuesController</node>
+            <node x="" y="">ConversationsController</node>
+            <node x="" y="">HostReviewsController</node>
+            <node x="" y="">BasicObject</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="1059.0" y="174.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/RevenuesController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>RevenuesController</OriginalElement>
+          <nodes>
+            <node x="" y="">BasicObject</node>
+            <node x="" y="">PP::ObjectMixin</node>
+            <node x="" y="">Module</node>
+            <node x="" y="">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="" y="">Class</node>
+            <node x="" y="">Object</node>
+            <node x="" y="">Kernel</node>
+            <node x="" y="">ApplicationController</node>
+            <node x="" y="">RevenuesController</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="260.0" y="178.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/Notification">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>Notification</OriginalElement>
+          <nodes>
+            <node x="" y="">BasicObject</node>
+            <node x="" y="">PP::ObjectMixin</node>
+            <node x="" y="">Module</node>
+            <node x="" y="">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="" y="">Class</node>
+            <node x="" y="">Notification</node>
+            <node x="" y="">Object</node>
+            <node x="" y="">Kernel</node>
+            <node x="" y="">ApplicationRecord</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="249.0" y="178.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/User">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>User</OriginalElement>
+          <nodes>
+            <node x="348.5473684210526" y="276.0">Conversation</node>
+            <node x="733.2973684210526" y="164.0">ApplicationRecord</node>
+            <node x="711.5473684210526" y="276.0">Setting</node>
+            <node x="815.5473684210526" y="276.0">Notification</node>
+            <node x="494.5473684210526" y="276.0">Message</node>
+            <node x="0.0" y="164.0">Module</node>
+            <node x="1142.5473684210526" y="276.0">Reservation</node>
+            <node x="386.39736842105265" y="0.0">PP::ObjectMixin</node>
+            <node x="0.0" y="435.0">Kernel</node>
+            <node x="1048.5473684210526" y="276.0">Room</node>
+            <node x="952.5473684210526" y="276.0">Photo</node>
+            <node x="106.0" y="164.0">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="658.2973684210526" y="358.0">GuestReview</node>
+            <node x="1278.5473684210526" y="276.0">User</node>
+            <node x="473.89736842105265" y="82.0">Object</node>
+            <node x="522.2973684210526" y="358.0">HostReview</node>
+            <node x="233.54736842105262" y="276.0">Calendar</node>
+            <node x="92.75" y="276.0">Class</node>
+            <node x="608.5473684210526" y="276.0">Review</node>
+            <node x="524.3973684210526" y="0.0">BasicObject</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Room" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="1085.5473684210526" y="236.0" />
+              <point x="854.0473684210526" y="236.0" />
+              <point x="40.24999999999997" y="16.0" />
+            </edge>
+            <edge source="Object" target="PP::ObjectMixin">
+              <point x="-20.0" y="-16.0" />
+              <point x="493.89736842105265" y="57.0" />
+              <point x="445.39736842105265" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Calendar" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="281.0473684210526" y="216.0" />
+              <point x="741.3473684210527" y="216.0" />
+              <point x="-72.45" y="16.0" />
+            </edge>
+            <edge source="User" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="1311.0473684210526" y="216.0" />
+              <point x="886.2473684210527" y="216.0" />
+              <point x="72.44999999999996" y="16.0" />
+            </edge>
+            <edge source="Message" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="541.5473684210526" y="236.0" />
+              <point x="773.5473684210526" y="236.0" />
+              <point x="-40.25000000000001" y="16.0" />
+            </edge>
+            <edge source="Class" target="DidYouMean::Experimental::InitializerNameCorrection">
+              <point x="17.25" y="-16.0" />
+              <point x="144.5" y="256.0" />
+              <point x="211.5" y="256.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="GuestReview" target="Review">
+              <point x="0.0" y="-16.0" />
+              <point x="719.7973684210526" y="333.0" />
+              <point x="670.7973684210526" y="333.0" />
+              <point x="20.75" y="16.0" />
+            </edge>
+            <edge source="Photo" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="990.5473684210526" y="246.0" />
+              <point x="837.9473684210526" y="246.0" />
+              <point x="24.149999999999977" y="16.0" />
+            </edge>
+            <edge source="Object" target="BasicObject">
+              <point x="20.0" y="-16.0" />
+              <point x="533.8973684210526" y="57.0" />
+              <point x="582.3973684210526" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Class" target="Module">
+              <point x="-17.25" y="-16.0" />
+              <point x="110.0" y="256.0" />
+              <point x="43.0" y="256.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Notification" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="874.0473684210526" y="256.0" />
+              <point x="821.8473684210526" y="256.0" />
+              <point x="8.049999999999983" y="16.0" />
+            </edge>
+            <edge source="HostReview" target="Review">
+              <point x="0.0" y="-16.0" />
+              <point x="580.2973684210526" y="333.0" />
+              <point x="629.2973684210526" y="333.0" />
+              <point x="-20.75" y="16.0" />
+            </edge>
+            <edge source="Module" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="43.0" y="139.0" />
+              <point x="493.89736842105265" y="139.0" />
+              <point x="-20.0" y="16.0" />
+            </edge>
+            <edge source="Conversation" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="411.5473684210526" y="226.0" />
+              <point x="757.4473684210526" y="226.0" />
+              <point x="-56.35000000000001" y="16.0" />
+            </edge>
+            <edge source="Reservation" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="1200.5473684210526" y="226.0" />
+              <point x="870.1473684210526" y="226.0" />
+              <point x="56.349999999999966" y="16.0" />
+            </edge>
+            <edge source="Setting" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="753.5473684210526" y="256.0" />
+              <point x="805.7473684210527" y="256.0" />
+              <point x="-8.050000000000011" y="16.0" />
+            </edge>
+            <edge source="ApplicationRecord" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="813.7973684210526" y="139.0" />
+              <point x="533.8973684210526" y="139.0" />
+              <point x="20.0" y="16.0" />
+            </edge>
+            <edge source="Review" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="650.0473684210526" y="246.0" />
+              <point x="789.6473684210526" y="246.0" />
+              <point x="-24.150000000000006" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="108.0" y="-17.0" />
+          <SelectedNodes>
+            <node>User</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/HostReview">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>HostReview</OriginalElement>
+          <nodes>
+            <node x="" y="">BasicObject</node>
+            <node x="" y="">Review</node>
+            <node x="" y="">PP::ObjectMixin</node>
+            <node x="" y="">Module</node>
+            <node x="" y="">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="" y="">Class</node>
+            <node x="" y="">HostReview</node>
+            <node x="" y="">Object</node>
+            <node x="" y="">Kernel</node>
+            <node x="" y="">ApplicationRecord</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="249.0" y="219.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/GuestReviewsController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>GuestReviewsController</OriginalElement>
+          <nodes>
+            <node x="246.25" y="0.0">BasicObject</node>
+            <node x="108.25" y="0.0">PP::ObjectMixin</node>
+            <node x="0.0" y="164.0">Module</node>
+            <node x="106.0" y="164.0">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="328.5" y="246.0">GuestReviewsController</node>
+            <node x="92.75" y="246.0">Class</node>
+            <node x="195.75" y="82.0">Object</node>
+            <node x="0.0" y="323.0">Kernel</node>
+            <node x="337.0" y="164.0">ApplicationController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Object" target="BasicObject">
+              <point x="20.0" y="-16.0" />
+              <point x="255.75" y="57.0" />
+              <point x="304.25" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Object" target="PP::ObjectMixin">
+              <point x="-20.0" y="-16.0" />
+              <point x="215.75" y="57.0" />
+              <point x="167.25" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Class" target="Module">
+              <point x="-17.25" y="-16.0" />
+              <point x="110.0" y="221.0" />
+              <point x="43.0" y="221.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="ApplicationController" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="428.5" y="139.0" />
+              <point x="255.75" y="139.0" />
+              <point x="20.0" y="16.0" />
+            </edge>
+            <edge source="Module" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="43.0" y="139.0" />
+              <point x="215.75" y="139.0" />
+              <point x="-20.0" y="16.0" />
+            </edge>
+            <edge source="Class" target="DidYouMean::Experimental::InitializerNameCorrection">
+              <point x="17.25" y="-16.0" />
+              <point x="144.5" y="221.0" />
+              <point x="211.5" y="221.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="GuestReviewsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="265.0" y="178.0" />
+          <SelectedNodes>
+            <node>DidYouMean::Experimental::InitializerNameCorrection</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/MessagesController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>MessagesController</OriginalElement>
+          <nodes>
+            <node x="0.0" y="164.0">Module</node>
+            <node x="606.6634615384614" y="164.0">ApplicationController</node>
+            <node x="361.16346153846143" y="0.0">PP::ObjectMixin</node>
+            <node x="106.0" y="164.0">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="814.6634615384614" y="246.0">NotificationsController</node>
+            <node x="204.53846153846143" y="246.0">RoomsController</node>
+            <node x="390.66346153846143" y="164.0">RegistrationsController</node>
+            <node x="499.16346153846143" y="0.0">BasicObject</node>
+            <node x="448.66346153846143" y="82.0">Object</node>
+            <node x="0.0" y="323.0">Kernel</node>
+            <node x="601.6634615384614" y="246.0">ReservationsController</node>
+            <node x="52.75" y="246.0">Class</node>
+            <node x="375.53846153846143" y="246.0">RevenuesController</node>
+            <node x="1028.6634615384614" y="246.0">MessagesController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="MessagesController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="1114.1634615384614" y="216.0" />
+              <point x="771.3634615384614" y="216.0" />
+              <point x="73.19999999999993" y="16.0" />
+            </edge>
+            <edge source="Object" target="BasicObject">
+              <point x="20.0" y="-16.0" />
+              <point x="508.66346153846143" y="57.0" />
+              <point x="557.1634615384614" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Object" target="PP::ObjectMixin">
+              <point x="-20.0" y="-16.0" />
+              <point x="468.66346153846143" y="57.0" />
+              <point x="420.16346153846143" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Class" target="Module">
+              <point x="-17.25" y="-16.0" />
+              <point x="70.0" y="226.0" />
+              <point x="43.0" y="226.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="ApplicationController" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="698.1634615384614" y="139.0" />
+              <point x="515.3301282051281" y="139.0" />
+              <point x="26.66666666666663" y="16.0" />
+            </edge>
+            <edge source="Module" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="43.0" y="139.0" />
+              <point x="461.9967948717948" y="139.0" />
+              <point x="-26.66666666666663" y="16.0" />
+            </edge>
+            <edge source="ReservationsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="RoomsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="280.03846153846143" y="216.0" />
+              <point x="624.9634615384614" y="216.0" />
+              <point x="-73.20000000000005" y="16.0" />
+            </edge>
+            <edge source="RegistrationsController" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="RevenuesController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="460.53846153846143" y="226.0" />
+              <point x="661.5634615384614" y="226.0" />
+              <point x="-36.60000000000002" y="16.0" />
+            </edge>
+            <edge source="NotificationsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="911.6634615384614" y="226.0" />
+              <point x="734.7634615384613" y="226.0" />
+              <point x="36.59999999999991" y="16.0" />
+            </edge>
+            <edge source="Class" target="DidYouMean::Experimental::InitializerNameCorrection">
+              <point x="17.25" y="-16.0" />
+              <point x="104.5" y="226.0" />
+              <point x="211.5" y="226.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-50.0" y="-17.0" />
+          <SelectedNodes>
+            <node>RoomsController</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/calendars/host.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+        <state relative-caret-position="390">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/calendars/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/rooms/pricing.html.erb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="88" column="5" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/photos/_photos_list.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/messages/_message.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/RegistrationsController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>RegistrationsController</OriginalElement>
+          <nodes>
+            <node x="3651.0" y="296.0">Conversation</node>
+            <node x="2622.25" y="164.0">Module</node>
+            <node x="426.0" y="296.0">SettingsController</node>
+            <node x="3537.0" y="296.0">Message</node>
+            <node x="2857.25" y="378.0">HostReview</node>
+            <node x="3797.0" y="296.0">Notification</node>
+            <node x="0.0" y="296.0">HostReviewsController</node>
+            <node x="937.0" y="164.0">OmniauthCallbacksController</node>
+            <node x="1469.0" y="296.0">NotificationsController</node>
+            <node x="3128.0" y="296.0">Setting</node>
+            <node x="1125.0" y="296.0">RoomsController</node>
+            <node x="2523.0" y="296.0">CalendarsController</node>
+            <node x="3328.0" y="296.0">Room</node>
+            <node x="3232.0" y="296.0">Photo</node>
+            <node x="2715.0" y="296.0">Class</node>
+            <node x="213.0" y="296.0">ReservationsController</node>
+            <node x="607.0" y="296.0">UsersController</node>
+            <node x="2096.0" y="296.0">DashboardsController</node>
+            <node x="3043.0" y="296.0">User</node>
+            <node x="3422.0" y="296.0">Calendar</node>
+            <node x="1195.0" y="164.0">ApplicationController</node>
+            <node x="2799.0" y="295.0">Review</node>
+            <node x="934.0" y="296.0">MessagesController</node>
+            <node x="3448.6833333333334" y="164.0">RegistrationsController</node>
+            <node x="2714.25" y="378.0">GuestReview</node>
+            <node x="2907.0" y="296.0">Reservation</node>
+            <node x="2675.75" y="0.0">BasicObject</node>
+            <node x="1906.0" y="296.0">RevenuesController</node>
+            <node x="769.0" y="296.0">PagesController</node>
+            <node x="3267.6833333333334" y="164.0">ApplicationRecord</node>
+            <node x="2537.75" y="0.0">PP::ObjectMixin</node>
+            <node x="1683.0" y="296.0">ConversationsController</node>
+            <node x="2625.25" y="82.0">Object</node>
+            <node x="0.0" y="455.0">Kernel</node>
+            <node x="1296.0" y="296.0">PhotosController</node>
+            <node x="2728.25" y="164.0">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="2303.0" y="296.0">GuestReviewsController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="MessagesController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="1019.5" y="266.0" />
+              <point x="1266.892857142857" y="266.0" />
+              <point x="-19.60714285714289" y="16.0" />
+            </edge>
+            <edge source="Object" target="PP::ObjectMixin">
+              <point x="-20.0" y="-16.0" />
+              <point x="2645.25" y="57.0" />
+              <point x="2596.75" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="ReservationsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="309.5" y="226.0" />
+              <point x="1214.607142857143" y="226.0" />
+              <point x="-71.89285714285711" y="16.0" />
+            </edge>
+            <edge source="User" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3075.5" y="256.0" />
+              <point x="3307.9333333333334" y="256.0" />
+              <point x="-40.25" y="16.0" />
+            </edge>
+            <edge source="Class" target="DidYouMean::Experimental::InitializerNameCorrection">
+              <point x="17.25" y="-16.0" />
+              <point x="2766.75" y="276.0" />
+              <point x="2833.75" y="276.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="GuestReview" target="Review">
+              <point x="0.0" y="-16.0" />
+              <point x="2775.75" y="353.0" />
+              <point x="2824.75" y="353.0" />
+              <point x="-20.75" y="16.0" />
+            </edge>
+            <edge source="Photo" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3270.0" y="276.0" />
+              <point x="3340.133333333333" y="276.0" />
+              <point x="-8.050000000000182" y="16.0" />
+            </edge>
+            <edge source="Class" target="Module">
+              <point x="-17.25" y="-16.0" />
+              <point x="2732.25" y="276.0" />
+              <point x="2665.25" y="276.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="Notification" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3855.5" y="246.0" />
+              <point x="3420.633333333333" y="246.0" />
+              <point x="72.44999999999982" y="16.0" />
+            </edge>
+            <edge source="Module" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="HostReviewsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="96.5" y="216.0" />
+              <point x="1201.5357142857142" y="216.0" />
+              <point x="-84.96428571428578" y="16.0" />
+            </edge>
+            <edge source="HostReview" target="Review">
+              <point x="0.0" y="-16.0" />
+              <point x="2915.25" y="353.0" />
+              <point x="2866.25" y="353.0" />
+              <point x="20.75" y="16.0" />
+            </edge>
+            <edge source="OmniauthCallbacksController" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="1056.0" y="134.0" />
+              <point x="2633.25" y="134.0" />
+              <point x="-32.0" y="16.0" />
+            </edge>
+            <edge source="ApplicationRecord" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="3348.1833333333334" y="144.0" />
+              <point x="2681.25" y="144.0" />
+              <point x="16.0" y="16.0" />
+            </edge>
+            <edge source="ConversationsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="1784.5" y="256.0" />
+              <point x="1319.1785714285713" y="256.0" />
+              <point x="32.67857142857133" y="16.0" />
+            </edge>
+            <edge source="Review" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="2845.5" y="236.0" />
+              <point x="3275.7333333333336" y="236.0" />
+              <point x="-72.44999999999982" y="16.0" />
+            </edge>
+            <edge source="GuestReviewsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="2403.0" y="226.0" />
+              <point x="1358.392857142857" y="226.0" />
+              <point x="71.89285714285711" y="16.0" />
+            </edge>
+            <edge source="Room" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3365.0" y="276.0" />
+              <point x="3356.2333333333336" y="276.0" />
+              <point x="8.050000000000182" y="16.0" />
+            </edge>
+            <edge source="UsersController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="678.0" y="246.0" />
+              <point x="1240.75" y="246.0" />
+              <point x="-45.75" y="16.0" />
+            </edge>
+            <edge source="Calendar" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3469.5" y="276.0" />
+              <point x="3372.3333333333335" y="276.0" />
+              <point x="24.15000000000009" y="16.0" />
+            </edge>
+            <edge source="Message" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3584.0" y="266.0" />
+              <point x="3388.4333333333334" y="266.0" />
+              <point x="40.25" y="16.0" />
+            </edge>
+            <edge source="Object" target="BasicObject">
+              <point x="20.0" y="-16.0" />
+              <point x="2685.25" y="57.0" />
+              <point x="2733.75" y="57.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="ApplicationController" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="1286.5" y="144.0" />
+              <point x="2649.25" y="144.0" />
+              <point x="-16.0" y="16.0" />
+            </edge>
+            <edge source="CalendarsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="2609.0" y="216.0" />
+              <point x="1371.4642857142858" y="216.0" />
+              <point x="84.96428571428578" y="16.0" />
+            </edge>
+            <edge source="Conversation" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3714.0" y="256.0" />
+              <point x="3404.5333333333333" y="256.0" />
+              <point x="56.34999999999991" y="16.0" />
+            </edge>
+            <edge source="PhotosController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="1372.5" y="276.0" />
+              <point x="1293.0357142857142" y="276.0" />
+              <point x="6.535714285714221" y="16.0" />
+            </edge>
+            <edge source="RoomsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="1200.5" y="276.0" />
+              <point x="1279.9642857142858" y="276.0" />
+              <point x="-6.535714285714221" y="16.0" />
+            </edge>
+            <edge source="RegistrationsController" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="3546.6833333333334" y="134.0" />
+              <point x="2697.25" y="134.0" />
+              <point x="32.0" y="16.0" />
+            </edge>
+            <edge source="Reservation" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="2965.0" y="246.0" />
+              <point x="3291.8333333333335" y="246.0" />
+              <point x="-56.34999999999991" y="16.0" />
+            </edge>
+            <edge source="RevenuesController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="1991.0" y="246.0" />
+              <point x="1332.25" y="246.0" />
+              <point x="45.75" y="16.0" />
+            </edge>
+            <edge source="Setting" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="3170.0" y="266.0" />
+              <point x="3324.0333333333333" y="266.0" />
+              <point x="-24.15000000000009" y="16.0" />
+            </edge>
+            <edge source="PagesController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="841.5" y="256.0" />
+              <point x="1253.8214285714287" y="256.0" />
+              <point x="-32.67857142857133" y="16.0" />
+            </edge>
+            <edge source="NotificationsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="1566.0" y="266.0" />
+              <point x="1306.107142857143" y="266.0" />
+              <point x="19.60714285714289" y="16.0" />
+            </edge>
+            <edge source="DashboardsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="2189.5" y="236.0" />
+              <point x="1345.3214285714287" y="236.0" />
+              <point x="58.82142857142867" y="16.0" />
+            </edge>
+            <edge source="SettingsController" target="ApplicationController">
+              <point x="0.0" y="-16.0" />
+              <point x="506.5" y="236.0" />
+              <point x="1227.6785714285713" y="236.0" />
+              <point x="-58.82142857142867" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="-3.0" />
+          <SelectedNodes>
+            <node>Review</node>
+          </SelectedNodes>
+          <Categories />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/devise/passwords/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/devise/passwords/edit.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/guest_reviews_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://RailsDependency/Room">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>RailsDependency</ID>
+          <OriginalElement>Room</OriginalElement>
+          <nodes>
+            <node x="387.75465116279054" y="574.0">Notification</node>
+            <node x="768.0046511627905" y="218.0">GuestReview</node>
+            <node x="839.1296511627905" y="550.0">Conversation</node>
+            <node x="757.4622093023255" y="704.0">Message</node>
+            <node x="702.832558139535" y="124.0">Review</node>
+            <node x="154.99999999999994" y="716.0">Photo</node>
+            <node x="0.0" y="716.0">Calendar</node>
+            <node x="517.0046511627905" y="218.0">HostReview</node>
+            <node x="428.00465116279054" y="112.0">Setting</node>
+            <node x="193.99999999999994" y="562.0">Room</node>
+            <node x="360.125" y="0.0">ApplicationRecord</node>
+            <node x="337.42441860465135" y="704.0">Reservation</node>
+            <node x="642.7122093023255" y="324.0">User</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Room" target="ApplicationRecord">
+              <point x="-33.75" y="-40.0" />
+              <point x="227.74999999999994" y="72.0" />
+              <point x="400.375" y="72.0" />
+              <point x="-40.25" y="16.0" />
+            </edge>
+            <edge source="Calendar" target="ApplicationRecord">
+              <point x="-33.75" y="-28.0" />
+              <point x="33.74999999999994" y="52.0" />
+              <point x="368.175" y="52.0" />
+              <point x="-72.44999999999999" y="16.0" />
+            </edge>
+            <edge source="Calendar" target="Room">
+              <point x="33.75" y="-28.0" />
+              <point x="101.25" y="684.0" />
+              <point x="216.49999999999994" y="684.0" />
+              <point x="-45.0" y="40.0" />
+            </edge>
+            <edge source="Message" target="Conversation">
+              <point x="0.0" y="-40.0" />
+              <point x="877.4622093023255" y="674.0" />
+              <point x="959.1296511627905" y="674.0" />
+              <point x="0.0" y="52.0" />
+            </edge>
+            <edge source="Message" target="ApplicationRecord">
+              <point x="80.0" y="-40.0" />
+              <point x="957.4622093023255" y="684.0" />
+              <point x="1093.9244186046512" y="684.0" />
+              <point x="1093.9244186046512" y="52.0" />
+              <point x="513.0749999999999" y="52.0" />
+              <point x="72.44999999999993" y="16.0" />
+            </edge>
+            <edge source="User" target="ApplicationRecord">
+              <point x="92.24999999999997" y="-88.0" />
+              <point x="857.9622093023255" y="304.0" />
+              <point x="1047.8796511627907" y="304.0" />
+              <point x="1047.8796511627907" y="72.0" />
+              <point x="480.875" y="72.0" />
+              <point x="40.25" y="16.0" />
+            </edge>
+            <edge source="User" target="GuestReview">
+              <point x="30.75" y="-88.0" />
+              <point x="796.4622093023255" y="294.0" />
+              <point x="891.0046511627905" y="294.0" />
+              <point x="0.0" y="28.0" />
+            </edge>
+            <edge source="Reservation" target="Room">
+              <point x="-45.0" y="-40.0" />
+              <point x="359.92441860465135" y="684.0" />
+              <point x="306.49999999999994" y="684.0" />
+              <point x="45.0" y="40.0" />
+            </edge>
+            <edge source="Conversation" target="User">
+              <point x="0.0" y="-52.0" />
+              <point x="959.1296511627905" y="520.0" />
+              <point x="868.2122093023255" y="520.0" />
+              <point x="102.5" y="88.0" />
+            </edge>
+            <edge source="GuestReview" target="Review">
+              <point x="0.0" y="-28.0" />
+              <point x="891.0046511627905" y="193.0" />
+              <point x="765.082558139535" y="193.0" />
+              <point x="20.75" y="16.0" />
+            </edge>
+            <edge source="Photo" target="ApplicationRecord">
+              <point x="-33.75" y="-28.0" />
+              <point x="188.74999999999994" y="674.0" />
+              <point x="183.49999999999994" y="674.0" />
+              <point x="183.49999999999994" y="62.0" />
+              <point x="384.275" y="62.0" />
+              <point x="-56.35000000000002" y="16.0" />
+            </edge>
+            <edge source="User" target="HostReview">
+              <point x="-30.75" y="-88.0" />
+              <point x="734.9622093023255" y="294.0" />
+              <point x="632.5046511627905" y="294.0" />
+              <point x="0.0" y="28.0" />
+            </edge>
+            <edge source="Room" target="User">
+              <point x="33.75" y="-40.0" />
+              <point x="295.24999999999994" y="520.0" />
+              <point x="663.2122093023255" y="520.0" />
+              <point x="-102.5" y="88.0" />
+            </edge>
+            <edge source="Photo" target="Room">
+              <point x="33.75" y="-28.0" />
+              <point x="256.24999999999994" y="684.0" />
+              <point x="261.49999999999994" y="684.0" />
+              <point x="0.0" y="40.0" />
+            </edge>
+            <edge source="Notification" target="ApplicationRecord">
+              <point x="-29.75" y="-28.0" />
+              <point x="417.50465116279054" y="92.0" />
+              <point x="432.57499999999993" y="92.0" />
+              <point x="-8.050000000000068" y="16.0" />
+            </edge>
+            <edge source="Message" target="User">
+              <point x="-80.0" y="-40.0" />
+              <point x="797.4622093023255" y="684.0" />
+              <point x="746.9622093023255" y="684.0" />
+              <point x="746.9622093023255" y="530.0" />
+              <point x="786.2122093023255" y="530.0" />
+              <point x="20.5" y="88.0" />
+            </edge>
+            <edge source="HostReview" target="Review">
+              <point x="0.0" y="-28.0" />
+              <point x="632.5046511627905" y="193.0" />
+              <point x="723.582558139535" y="193.0" />
+              <point x="-20.75" y="16.0" />
+            </edge>
+            <edge source="Conversation" target="ApplicationRecord">
+              <point x="80.0" y="-52.0" />
+              <point x="1039.1296511627907" y="530.0" />
+              <point x="1063.1744186046512" y="530.0" />
+              <point x="1063.1744186046512" y="62.0" />
+              <point x="496.975" y="62.0" />
+              <point x="56.35000000000002" y="16.0" />
+            </edge>
+            <edge source="Reservation" target="ApplicationRecord">
+              <point x="0.0" y="-40.0" />
+              <point x="404.92441860465135" y="684.0" />
+              <point x="377.25465116279054" y="684.0" />
+              <point x="377.25465116279054" y="82.0" />
+              <point x="416.475" y="82.0" />
+              <point x="-24.149999999999977" y="16.0" />
+            </edge>
+            <edge source="Reservation" target="User">
+              <point x="45.0" y="-40.0" />
+              <point x="449.92441860465135" y="684.0" />
+              <point x="735.9622093023255" y="684.0" />
+              <point x="735.9622093023255" y="520.0" />
+              <point x="745.2122093023255" y="520.0" />
+              <point x="-20.5" y="88.0" />
+            </edge>
+            <edge source="Setting" target="ApplicationRecord">
+              <point x="0.0" y="-28.0" />
+              <point x="506.50465116279054" y="92.0" />
+              <point x="448.67499999999995" y="92.0" />
+              <point x="8.049999999999955" y="16.0" />
+            </edge>
+            <edge source="Notification" target="User">
+              <point x="29.75" y="-28.0" />
+              <point x="477.00465116279054" y="530.0" />
+              <point x="704.2122093023255" y="530.0" />
+              <point x="-61.5" y="88.0" />
+            </edge>
+            <edge source="User" target="Setting">
+              <point x="-92.25" y="-88.0" />
+              <point x="673.4622093023255" y="304.0" />
+              <point x="506.50465116279054" y="304.0" />
+              <point x="0.0" y="28.0" />
+            </edge>
+            <edge source="Review" target="ApplicationRecord">
+              <point x="0.0" y="-16.0" />
+              <point x="744.332558139535" y="82.0" />
+              <point x="464.775" y="82.0" />
+              <point x="24.149999999999977" y="16.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.518850987432675" x="452.56055363321803" y="16.16955017301035" />
+          <SelectedNodes>
+            <node>Reservation</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Association fields</Category>
+            <Category>Migration fields</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/application_record.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/Room">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>Room</OriginalElement>
+          <nodes>
+            <node x="3321.465" y="1905.0">CalendarsController</node>
+            <node x="1074.4650000000001" y="1617.0">ReservationsController</node>
+            <node x="1896.4650000000001" y="1893.0">MessagesController</node>
+            <node x="2270.465" y="1833.0">PhotosController</node>
+            <node x="409.0" y="968.5">ApplicationRecord</node>
+            <node x="1713.4650000000001" y="1821.0">PagesController</node>
+            <node x="867.465" y="1965.0">DashboardsController</node>
+            <node x="0.0" y="944.5">Module</node>
+            <node x="1289.4650000000001" y="1893.0">SettingsController</node>
+            <node x="2092.465" y="1281.0">RoomsController</node>
+            <node x="3093.465" y="1821.0">GuestReviewsController</node>
+            <node x="1221.0900000000001" y="216.0">PP::ObjectMixin</node>
+            <node x="1474.4650000000001" y="1737.0">UsersController</node>
+            <node x="0.0" y="2799.0">Kernel</node>
+            <node x="1353.3400000000001" y="944.5">RegistrationsController</node>
+            <node x="408.5" y="1953.5">Room</node>
+            <node x="1934.4650000000001" y="944.5">ApplicationController</node>
+            <node x="2443.465" y="1965.0">NotificationsController</node>
+            <node x="1095.3400000000001" y="788.0">OmniauthCallbacksController</node>
+            <node x="178.0" y="944.5">DidYouMean::Experimental::InitializerNameCorrection</node>
+            <node x="1174.3400000000001" y="706.0">Object</node>
+            <node x="99.25" y="1977.5">Class</node>
+            <node x="2883.465" y="1917.0">RevenuesController</node>
+            <node x="2657.465" y="1881.0">ConversationsController</node>
+            <node x="939.09" y="0.0">BasicObject</node>
+            <node x="647.465" y="1833.0">HostReviewsController</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Room" target="ApplicationRecord">
+              <point x="0.0" y="-64.0" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="MessagesController" target="ApplicationController">
+              <point x="0.0" y="-124.5" />
+              <point x="1984.4650000000001" y="1261.0" />
+              <point x="2067.715" y="1261.0" />
+              <point x="-10.25" y="40.0" />
+            </edge>
+            <edge source="Object" target="PP::ObjectMixin">
+              <point x="20.0" y="-16.0" />
+              <point x="1234.3400000000001" y="681.0" />
+              <point x="1358.5900000000001" y="681.0" />
+              <point x="0.0" y="112.0" />
+            </edge>
+            <edge source="UsersController" target="ApplicationController">
+              <point x="0.0" y="-280.5" />
+              <point x="1583.9650000000001" y="1241.0" />
+              <point x="2026.7150000000001" y="1241.0" />
+              <point x="-51.25" y="40.0" />
+            </edge>
+            <edge source="ReservationsController" target="ApplicationController">
+              <point x="0.0" y="-400.5" />
+              <point x="1171.9650000000001" y="1221.0" />
+              <point x="1985.7150000000001" y="1221.0" />
+              <point x="-92.25" y="40.0" />
+            </edge>
+            <edge source="Class" target="DidYouMean::Experimental::InitializerNameCorrection">
+              <point x="41.0" y="-40.0" />
+              <point x="222.25" y="1261.0" />
+              <point x="283.5" y="1261.0" />
+              <point x="0.0" y="40.0" />
+            </edge>
+            <edge source="Object" target="BasicObject">
+              <point x="-20.0" y="-16.0" />
+              <point x="1194.3400000000001" y="681.0" />
+              <point x="1070.0900000000001" y="681.0" />
+              <point x="0.0" y="328.0" />
+            </edge>
+            <edge source="Class" target="Module">
+              <point x="-41.0" y="-40.0" />
+              <point x="140.25" y="1261.0" />
+              <point x="79.0" y="1261.0" />
+              <point x="0.0" y="40.0" />
+            </edge>
+            <edge source="ApplicationController" target="Object">
+              <point x="0.0" y="-40.0" />
+              <point x="2077.965" y="758.0" />
+              <point x="1246.3400000000001" y="758.0" />
+              <point x="32.0" y="16.0" />
+            </edge>
+            <edge source="HostReviewsController" target="ApplicationController">
+              <point x="0.0" y="-184.5" />
+              <point x="747.465" y="1201.0" />
+              <point x="1944.7150000000001" y="1201.0" />
+              <point x="-133.25" y="40.0" />
+            </edge>
+            <edge source="Module" target="Object">
+              <point x="0.0" y="-40.0" />
+              <point x="79.0" y="758.0" />
+              <point x="1182.3400000000001" y="758.0" />
+              <point x="-32.0" y="16.0" />
+            </edge>
+            <edge source="CalendarsController" target="ApplicationController">
+              <point x="0.0" y="-112.5" />
+              <point x="3408.965" y="1201.0" />
+              <point x="2211.215" y="1201.0" />
+              <point x="133.25" y="40.0" />
+            </edge>
+            <edge source="PhotosController" target="ApplicationController">
+              <point x="0.0" y="-184.5" />
+              <point x="2346.965" y="1251.0" />
+              <point x="2108.715" y="1251.0" />
+              <point x="30.75" y="40.0" />
+            </edge>
+            <edge source="OmniauthCallbacksController" target="Object">
+              <point x="0.0" y="-196.5" />
+              <point x="0.0" y="16.0" />
+            </edge>
+            <edge source="RoomsController" target="ApplicationController">
+              <point x="0.0" y="-736.5" />
+              <point x="2171.465" y="1261.0" />
+              <point x="2088.215" y="1261.0" />
+              <point x="10.25" y="40.0" />
+            </edge>
+            <edge source="RegistrationsController" target="Object">
+              <point x="0.0" y="-40.0" />
+              <point x="1451.3400000000001" y="768.0" />
+              <point x="1230.3400000000001" y="768.0" />
+              <point x="16.0" y="16.0" />
+            </edge>
+            <edge source="RevenuesController" target="ApplicationController">
+              <point x="0.0" y="-100.5" />
+              <point x="2978.465" y="1221.0" />
+              <point x="2170.215" y="1221.0" />
+              <point x="92.25" y="40.0" />
+            </edge>
+            <edge source="PagesController" target="ApplicationController">
+              <point x="0.0" y="-196.5" />
+              <point x="1794.9650000000001" y="1251.0" />
+              <point x="2047.2150000000001" y="1251.0" />
+              <point x="-30.75" y="40.0" />
+            </edge>
+            <edge source="NotificationsController" target="ApplicationController">
+              <point x="0.0" y="-52.5" />
+              <point x="2540.465" y="1241.0" />
+              <point x="2129.215" y="1241.0" />
+              <point x="51.25" y="40.0" />
+            </edge>
+            <edge source="DashboardsController" target="ApplicationController">
+              <point x="0.0" y="-52.5" />
+              <point x="960.965" y="1211.0" />
+              <point x="1965.2150000000001" y="1211.0" />
+              <point x="-112.75" y="40.0" />
+            </edge>
+            <edge source="SettingsController" target="ApplicationController">
+              <point x="0.0" y="-124.5" />
+              <point x="1371.9650000000001" y="1231.0" />
+              <point x="2006.2150000000001" y="1231.0" />
+              <point x="-71.75" y="40.0" />
+            </edge>
+            <edge source="ApplicationRecord" target="Object">
+              <point x="0.0" y="-16.0" />
+              <point x="489.5" y="768.0" />
+              <point x="1198.3400000000001" y="768.0" />
+              <point x="-16.0" y="16.0" />
+            </edge>
+            <edge source="ConversationsController" target="ApplicationController">
+              <point x="0.0" y="-136.5" />
+              <point x="2760.465" y="1231.0" />
+              <point x="2149.715" y="1231.0" />
+              <point x="71.75" y="40.0" />
+            </edge>
+            <edge source="GuestReviewsController" target="ApplicationController">
+              <point x="-1.1368683772161603E-13" y="-196.5" />
+              <point x="3197.465" y="1211.0" />
+              <point x="2190.715" y="1211.0" />
+              <point x="112.75" y="40.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="2080.833333333333" y="1083.0" />
+          <SelectedNodes>
+            <node>MessagesController</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Constants</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/calendar.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/conversation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/guest_review.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/host_review.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/message.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/notification.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/photo.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="60">
+          <caret line="4" column="30" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/reservation.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/review.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/room.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="22" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/setting.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="26" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/calendars_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/conversations_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/dashboards_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/host_reviews_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/messages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/notifications_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/omniauth_callbacks_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="38" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/photos_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/registrations_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/reservations_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="77" column="32" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/revenues_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/settings_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/rooms_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>

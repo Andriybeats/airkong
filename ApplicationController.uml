@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Ruby</ID>
+  <OriginalElement>ApplicationController</OriginalElement>
+  <nodes>
+    <node x="2365.75" y="1641.0">CalendarsController</node>
+    <node x="1112.75" y="1353.0">ReservationsController</node>
+    <node x="1972.75" y="1569.0">PhotosController</node>
+    <node x="505.75" y="1557.0">PagesController</node>
+    <node x="309.75" y="1629.0">MessagesController</node>
+    <node x="1327.75" y="1701.0">DashboardsController</node>
+    <node x="231.0" y="812.5">Module</node>
+    <node x="927.7500000000001" y="1689.0">SettingsController</node>
+    <node x="3000.75" y="1017.0">RoomsController</node>
+    <node x="1534.75" y="1557.0">GuestReviewsController</node>
+    <node x="1885.75" y="216.0">PP::ObjectMixin</node>
+    <node x="688.7500000000001" y="1593.0">UsersController</node>
+    <node x="0.0" y="2535.0">Kernel</node>
+    <node x="1911.75" y="824.5">RegistrationsController</node>
+    <node x="1604.75" y="788.5">ApplicationController</node>
+    <node x="2127.75" y="788.0">OmniauthCallbacksController</node>
+    <node x="2786.75" y="1713.0">NotificationsController</node>
+    <node x="0.0" y="812.5">DidYouMean::Experimental::InitializerNameCorrection</node>
+    <node x="1839.0" y="706.0">Object</node>
+    <node x="125.75" y="1713.5">Class</node>
+    <node x="1762.75" y="1701.0">RevenuesController</node>
+    <node x="2560.75" y="1617.0">ConversationsController</node>
+    <node x="2145.75" y="1569.0">HostReviewsController</node>
+    <node x="1603.75" y="0.0">BasicObject</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="MessagesController" target="ApplicationController">
+      <point x="0.0" y="-124.5" />
+      <point x="397.75" y="937.0" />
+      <point x="1615.0" y="937.0" />
+      <point x="-133.25" y="64.0" />
+    </edge>
+    <edge source="UsersController" target="ApplicationController">
+      <point x="0.0" y="-160.5" />
+      <point x="798.2500000000001" y="957.0" />
+      <point x="1656.0" y="957.0" />
+      <point x="-92.25" y="64.0" />
+    </edge>
+    <edge source="Object" target="PP::ObjectMixin">
+      <point x="20.0" y="-16.0" />
+      <point x="1899.0" y="681.0" />
+      <point x="2023.25" y="681.0" />
+      <point x="0.0" y="112.0" />
+    </edge>
+    <edge source="ReservationsController" target="ApplicationController">
+      <point x="0.0" y="-400.5" />
+      <point x="1210.25" y="977.0" />
+      <point x="1697.0" y="977.0" />
+      <point x="-51.25" y="64.0" />
+    </edge>
+    <edge source="Class" target="DidYouMean::Experimental::InitializerNameCorrection">
+      <point x="-41.0" y="-40.0" />
+      <point x="166.75" y="997.0" />
+      <point x="105.5" y="997.0" />
+      <point x="0.0" y="40.0" />
+    </edge>
+    <edge source="Object" target="BasicObject">
+      <point x="-20.0" y="-16.0" />
+      <point x="1859.0" y="681.0" />
+      <point x="1734.75" y="681.0" />
+      <point x="0.0" y="328.0" />
+    </edge>
+    <edge source="Class" target="Module">
+      <point x="41.0" y="-40.0" />
+      <point x="248.75" y="997.0" />
+      <point x="310.0" y="997.0" />
+      <point x="0.0" y="40.0" />
+    </edge>
+    <edge source="ApplicationController" target="Object">
+      <point x="0.0" y="-64.0" />
+      <point x="1748.25" y="768.0" />
+      <point x="1869.0" y="768.0" />
+      <point x="-10.0" y="16.0" />
+    </edge>
+    <edge source="HostReviewsController" target="ApplicationController">
+      <point x="0.0" y="-184.5" />
+      <point x="2245.75" y="977.0" />
+      <point x="1799.5" y="977.0" />
+      <point x="51.25" y="64.0" />
+    </edge>
+    <edge source="CalendarsController" target="ApplicationController">
+      <point x="0.0" y="-112.5" />
+      <point x="2453.25" y="967.0" />
+      <point x="1820.0" y="967.0" />
+      <point x="71.75" y="64.0" />
+    </edge>
+    <edge source="Module" target="Object">
+      <point x="0.0" y="-40.0" />
+      <point x="310.0" y="758.0" />
+      <point x="1849.0" y="758.0" />
+      <point x="-30.0" y="16.0" />
+    </edge>
+    <edge source="PhotosController" target="ApplicationController">
+      <point x="0.0" y="-184.5" />
+      <point x="2049.25" y="987.0" />
+      <point x="1779.0" y="987.0" />
+      <point x="30.75" y="64.0" />
+    </edge>
+    <edge source="OmniauthCallbacksController" target="Object">
+      <point x="0.0" y="-64.5" />
+      <point x="2246.75" y="758.0" />
+      <point x="1909.0" y="758.0" />
+      <point x="30.0" y="16.0" />
+    </edge>
+    <edge source="RoomsController" target="ApplicationController">
+      <point x="0.0" y="-736.5" />
+      <point x="3079.75" y="937.0" />
+      <point x="1881.5" y="937.0" />
+      <point x="133.25" y="64.0" />
+    </edge>
+    <edge source="RevenuesController" target="ApplicationController">
+      <point x="0.0" y="-52.5" />
+      <point x="1857.75" y="997.0" />
+      <point x="1758.5" y="997.0" />
+      <point x="10.25" y="64.0" />
+    </edge>
+    <edge source="RegistrationsController" target="Object">
+      <point x="0.0" y="-28.0" />
+      <point x="2009.75" y="768.0" />
+      <point x="1889.0" y="768.0" />
+      <point x="10.0" y="16.0" />
+    </edge>
+    <edge source="PagesController" target="ApplicationController">
+      <point x="0.0" y="-196.5" />
+      <point x="587.25" y="947.0" />
+      <point x="1635.5" y="947.0" />
+      <point x="-112.75" y="64.0" />
+    </edge>
+    <edge source="NotificationsController" target="ApplicationController">
+      <point x="0.0" y="-40.5" />
+      <point x="2883.75" y="947.0" />
+      <point x="1861.0" y="947.0" />
+      <point x="112.75" y="64.0" />
+    </edge>
+    <edge source="DashboardsController" target="ApplicationController">
+      <point x="0.0" y="-52.5" />
+      <point x="1421.25" y="987.0" />
+      <point x="1717.5" y="987.0" />
+      <point x="-30.75" y="64.0" />
+    </edge>
+    <edge source="SettingsController" target="ApplicationController">
+      <point x="0.0" y="-64.5" />
+      <point x="1010.2500000000001" y="967.0" />
+      <point x="1676.5" y="967.0" />
+      <point x="-71.75" y="64.0" />
+    </edge>
+    <edge source="ConversationsController" target="ApplicationController">
+      <point x="0.0" y="-136.5" />
+      <point x="2663.75" y="957.0" />
+      <point x="1840.5" y="957.0" />
+      <point x="92.25" y="64.0" />
+    </edge>
+    <edge source="GuestReviewsController" target="ApplicationController">
+      <point x="0.0" y="-196.5" />
+      <point x="1638.75" y="997.0" />
+      <point x="1738.0" y="997.0" />
+      <point x="-10.25" y="64.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="1146.5714285714284" y="1350.4285714285713" />
+  <SelectedNodes>
+    <node>HostReviewsController</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constants</Category>
+    <Category>Fields</Category>
+  </Categories>
+</Diagram>
+

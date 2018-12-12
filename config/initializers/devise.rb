@@ -12,7 +12,7 @@ Devise.setup do |config|
   # Configure the e-mail address which will be shown in Devise::Mailer,
   # note that it will be overwritten if you use your own mailer class
   # with default "from" parameter.
-  config.mailer_sender = 'Leo @ AirPikachu <no-reply@airpikachu.com>'
+  config.mailer_sender = 'Leo @ AirKong <no-reply@airkong.com>'
 
   # Configure the class responsible to send e-mails.
   # config.mailer = 'Devise::Mailer'
@@ -276,6 +276,6 @@ Devise.setup do |config|
   # config.omniauth_path_prefix = '/my_engine/users/auth'
 
   config.omniauth :facebook, '214859342748450', 'b9ac7d452b3d05ba1aef324c8d3f69a2', scope: 'email', info_fields: 'email, name'
-  config.omniauth :stripe_connect, 'YOUR_STRIPE_CA_ID', 'YOUR_STRIPE_SECRET_KEY', scope: 'read_write', stripe_landing: 'login'
+  config.omniauth :stripe_connect, 'pk_test_MEELWIxv9BMrKmnyLolpL2gB', 'sk_test_T4T7W8k565Vtf0WkRkMZdVXz', scope: 'read_write', stripe_landing: 'login'
 
 end
